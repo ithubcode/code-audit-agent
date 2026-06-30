@@ -1,0 +1,28 @@
+{
+  "name": "code-audit-agent",
+  "description": "Code quality auditing agent — detect clean code violations, tech debt, and readability issues",
+  "agents": {
+    "code-audit": {
+      "description": "Code quality audit for clean code, readability, and best practices",
+      "prompt": "agents/code-audit.md",
+      "mode": "subagent",
+      "permission": {
+        "edit": {
+          "code-audit/*": "allow",
+          "*": "deny"
+        },
+        "bash": {
+          "*": "ask",
+          "grep *": "allow",
+          "rg *": "allow",
+          "ls *": "allow",
+          "find *": "allow",
+          "mkdir *": "allow",
+          "pip list": "allow",
+          "npm list *": "allow",
+          "go list *": "allow"
+        }
+      }
+    }
+  }
+}

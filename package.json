@@ -1,0 +1,16 @@
+{
+  "name": "code-audit-agent",
+  "version": "0.1.0",
+  "description": "Code quality auditing agent — detect clean code violations, tech debt, and readability issues",
+  "type": "module",
+  "main": ".opencode/plugins/plugin.js",
+  "license": "MIT",
+  "keywords": [
+    "opencode",
+    "code-quality",
+    "code-audit",
+    "clean-code",
+    "static-analysis",
+    "subagent"
+  ]
+}
