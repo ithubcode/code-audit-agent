@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/banner.svg?v=2" alt="code-audit-agent banner" width="800">
+  <img src="media/banner-v2.svg" alt="code-audit-agent banner" width="800">
 </p>
 
 <p align="center">
