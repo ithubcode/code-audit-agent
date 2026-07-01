@@ -1,6 +1,5 @@
 <p align="center">
-  <strong>🔍 code-audit-agent</strong><br>
-  <em>Code Quality Auditing Agent — 14 categories · 6 languages · SARIF output</em>
+  <img src="media/banner.svg" alt="code-audit-agent banner" width="800">
 </p>
 
 <p align="center">
@@ -8,9 +7,7 @@
   <img alt="Platform" src="https://img.shields.io/badge/platform-OpenCode%20|%20Claude%20Code%20|%20Codex%20|%20Gemini-lightgrey">
 </p>
 
----
-
-**code-audit-agent** is an AI-powered subagent that analyzes your codebase for clean code violations, readability problems, technical debt, and framework anti-patterns. It runs as an isolated agent in OpenCode, Claude Code, Codex, and Gemini CLI — never modifying code, only reporting findings.
+<strong>code-audit-agent</strong> is an AI-powered subagent that analyzes your codebase for clean code violations, readability problems, technical debt, and framework anti-patterns. It runs as an isolated agent in OpenCode, Claude Code, Codex, and Gemini CLI — never modifying code, only reporting findings.
 
 ---
 
@@ -131,3 +128,7 @@ Files analyzed: 47  |  Severity: 12 findings
 ## License
 
 MIT
+
+---
+
+<p align="center"><em>by <strong>ITHub</strong></em></p>
