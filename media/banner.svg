@@ -34,15 +34,15 @@
   </text>
 
   <!-- Status badges -->
-  <rect x="500" y="95" width="90" height="26" rx="4" fill="#1e293b" stroke="#334155" stroke-width="1"/>
-  <text x="511" y="112" font-family="sans-serif" font-size="12" fill="#60a5fa">Powered by AI</text>
+  <rect x="530" y="95" width="130" height="32" rx="6" fill="#1e293b" stroke="#3b82f6" stroke-width="1"/>
+  <text x="595" y="116" font-family="sans-serif" font-size="14" font-weight="bold" fill="#60a5fa" text-anchor="middle">Powered by AI</text>
 
-  <rect x="500" y="128" width="90" height="26" rx="4" fill="#1e293b" stroke="#334155" stroke-width="1"/>
-  <text x="525" y="145" font-family="sans-serif" font-size="12" fill="#94a3b8">v0.1.0</text>
+  <rect x="530" y="135" width="130" height="32" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <text x="595" y="156" font-family="sans-serif" font-size="14" font-weight="bold" fill="#cbd5e1" text-anchor="middle">v0.1.0</text>
 
   <!-- Bottom accent bar -->
   <rect x="40" y="196" width="720" height="1" rx="0.5" fill="#1e293b"/>
 
   <!-- by ITHub -->
-  <text x="400" y="220" font-family="sans-serif" font-size="12" fill="#475569" text-anchor="middle">by ITHub</text>
+  <text x="400" y="222" font-family="sans-serif" font-size="14" font-weight="bold" fill="#64748b" text-anchor="middle">by ITHub</text>
 </svg>
